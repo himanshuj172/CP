@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    background-color: rgb(244, 244, 244);
+  }
+  /* Medium screens */
+  @media all and (min-width: 651px) and (max-width: 900px) {
+  }
+  /* Small screens */
+  @media all and (min-width: 250px) and (max-width: 650px) {
+  }
